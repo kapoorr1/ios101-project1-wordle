@@ -2,7 +2,7 @@
 
 Submitted by: **Ria Kapoor**
 
-**Wordle** is an app that ... [TODO] 
+**Wordle** is an app that gives users 6 tries to guess a five-letter randomly generated word. 
 
 Time spent: **1.5** hours spent in total
 
@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the biggest challenges I faced was figuring out how to translate the comments from the starter code into Swift. I struggled with this because it was my first time coding in Swift and I was unfamiliar with the syntax. I kept trying to fix the errors and in the end, the app works and I am better able to understand Swift.
 
 ## License
 
